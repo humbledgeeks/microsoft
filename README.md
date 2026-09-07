@@ -61,3 +61,7 @@ certificates, key material or backup output (see `.gitignore`).
 Recovered from the preserved local `infra-automation` workspace during the 2026 LabOps repository cleanup
 (MICROSOFT-1). This repository starts with a fresh history; the original environment-specific versions are
 retained privately.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE).
